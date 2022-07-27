@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-
-**minguibernardo/minguibernardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mingui (Bernardo) from Angola.
+**minguibernardo** is a ✨ _special_ ✨ repository 
+I have more than 5 years of web development I love working with codeigniter framework 🔥✌️
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<img src="https://i.gifer.com/Paz.gif"/>
