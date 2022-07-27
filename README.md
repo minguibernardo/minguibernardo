@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <img src="https://i.gifer.com/Paz.gif"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minguibernardo)](https://github.com/anuraghazra/github-readme-stats)
