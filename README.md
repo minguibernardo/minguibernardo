@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <img src="https://i.gifer.com/Paz.gif"/>
-<iframe src="https://gifer.com/embed/Paz" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
